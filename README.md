@@ -4,5 +4,6 @@ cd 根目录 <br/>
 npm install <br/>
 npm start <br/>
 <hr/>
-效果图:
+<br/>
+效果图:<br/>
  ![image](https://github.com/pheromone/react-accounts/blob/master/react-accounts-result.gif) <br/>
